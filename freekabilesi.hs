@@ -8,3 +8,9 @@
 31.31.31.31 realitycheats.org
 31.31.31.31 www.realitycheats.net
 31.31.31.31 realitycheats.net
+31.31.31.31 www.memoryhackers.org
+31.31.31.31 memoryhackers.org
+31.31.31.31 ui.memoryhackers.org
+31.31.31.31 ui.memoryhackers.net
+31.31.31.31 www.ui.memoryhackers.net
+31.31.31.31 www.ui.memoryhackers.org
