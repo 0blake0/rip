@@ -2,12 +2,6 @@
 31.31.31.31 apathe.net
 31.31.31.31 www.apathe.org
 31.31.31.31 apathe.org
-31.31.31.31 www.realitycheats.com
-31.31.31.31 realitycheats.com
-31.31.31.31 www.realitycheats.org
-31.31.31.31 realitycheats.org
-31.31.31.31 www.realitycheats.net
-31.31.31.31 realitycheats.net
 31.31.31.31 www.memoryhackers.org
 31.31.31.31 memoryhackers.org
 31.31.31.31 ui.memoryhackers.org
